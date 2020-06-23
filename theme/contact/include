@@ -1,0 +1,57 @@
+<?php
+/**
+* PageCarton Page Generator
+*
+* LICENSE
+*
+* @category PageCarton
+* @package /contact
+* @generated Ayoola_Page_Editor_Layout
+* @copyright  Copyright (c) PageCarton. (http://www.PageCarton.com)
+* @license    http://www.PageCarton.com/license.txt
+* @version $Id: contact.php	Tuesday 23rd of June 2020 10:46:13 PM	amadelodun@gmail.com $ 
+*/
+//	Page Include Content
+
+							if( Ayoola_Loader::loadClass( 'Ayoola_Page_Editor_Text' ) )
+							{
+								
+$_26dac0f4e70e45c3813631c3a0a36592 = new Ayoola_Page_Editor_Text( array (
+  'codes' => '<section class="contact__page"><div class="contact__warp">
+			<div class="row">
+				<div class="col-md-6">
+					<h2>Contact Me</h2>
+					<div class="contact__social">
+						<a href="#"><i class="fa fa-facebook">&nbsp;</i></a>
+						<a href="#"><i class="fa fa-twitter">&nbsp;</i></a>
+						<a href="#"><i class="fa fa-linkedin">&nbsp;</i></a>
+						<a href="#"><i class="fa fa-instagram">&nbsp;</i></a>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="contact__text">
+						<p>Phone: 001-1234-666666</p>
+						<p>Email: hi@gmail.com</p>
+						<p>Address: 562 Domenic Corner Suite 613</p>
+					</div>
+				</div>
+			</div>
+			<form class="contact__form" action="/widgets/PageCarton_Contact_Form" method="POST">
+				<input name="contactus_firstname" type="text" placeholder="Name"><input name="contactus_email" type="text" placeholder="Email"><input  name="contactus_phone_number" type="text" placeholder="Phone"><textarea name="contactus_message" placeholder="Message"></textarea><button class="site-btn">Send Message</button>
+			</form>
+		</div>
+	</section>
+',
+  'preserved_content' => '',
+  'url_prefix' => '',
+  'pagewidget_id' => '1592949289-0-11',
+) );
+
+							}
+							else
+							{
+								
+$_26dac0f4e70e45c3813631c3a0a36592 = null;
+
+							}
+							

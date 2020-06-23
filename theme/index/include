@@ -1,0 +1,94 @@
+<?php
+/**
+* PageCarton Page Generator
+*
+* LICENSE
+*
+* @category PageCarton
+* @package /
+* @generated Ayoola_Page_Editor_Layout
+* @copyright  Copyright (c) PageCarton. (http://www.PageCarton.com)
+* @license    http://www.PageCarton.com/license.txt
+* @version $Id: includes.php	Tuesday 23rd of June 2020 10:46:13 PM	amadelodun@gmail.com $ 
+*/
+//	Page Include Content
+
+							if( Ayoola_Loader::loadClass( 'Ayoola_Page_Editor_Text' ) )
+							{
+								
+$_271c5a23bbf2f8374470231f97a4d31b = new Ayoola_Page_Editor_Text( array (
+  '' => 'Ayoola_Page_Editor_Text',
+  'editable' => '
+<section class="hero__section"><div class="hero-slider">
+			<div class="slide-item">
+				<a class="fresco" href="/layout/pc_layout_boto/img/hero-slider/1.jpg" data-fresco-group="projects">
+					<img src="/layout/pc_layout_boto/img/hero-slider/1.jpg" alt=""></a>
+			</div>
+			<div class="slide-item">
+				<a class="fresco" href="/layout/pc_layout_boto/img/hero-slider/2.jpg" data-fresco-group="projects">
+					<img src="/layout/pc_layout_boto/img/hero-slider/2.jpg" alt=""></a>
+			</div>
+			<div class="slide-item">
+				<a class="fresco" href="/layout/pc_layout_boto/img/hero-slider/3.jpg" data-fresco-group="projects">
+					<img src="/layout/pc_layout_boto/img/hero-slider/3.jpg" alt=""></a>	
+			</div>
+			<div class="slide-item">
+				<a class="fresco" href="/layout/pc_layout_boto/img/hero-slider/4.jpg" data-fresco-group="projects">
+					<img src="/layout/pc_layout_boto/img/hero-slider/4.jpg" alt=""></a>	
+			</div>
+			<div class="slide-item">
+				<a class="fresco" href="/layout/pc_layout_boto/img/hero-slider/5.jpg" data-fresco-group="projects">
+					<img src="/layout/pc_layout_boto/img/hero-slider/5.jpg" alt=""></a>	
+			</div>
+			<div class="slide-item">
+				<a class="fresco" href="/layout/pc_layout_boto/img/hero-slider/6.jpg" data-fresco-group="projects">
+					<img src="/layout/pc_layout_boto/img/hero-slider/6.jpg" alt=""></a>	
+			</div>
+			<div class="slide-item">
+				<a class="fresco" href="/layout/pc_layout_boto/img/hero-slider/7.jpg" data-fresco-group="projects">
+					<img src="/layout/pc_layout_boto/img/hero-slider/7.jpg" alt=""></a>	
+			</div>
+		</div>
+		<div class="hero-text-slider">
+			<div class="text-item">
+				<h2>Nature</h2>
+				<p>Photography</p>
+			</div>
+			<div class="text-item">
+				<h2>Red Heartbeat</h2>
+				<p>Photography</p>
+			</div>
+			<div class="text-item">
+				<h2>Blue Dreem</h2>
+				<p>Photography</p>
+			</div>
+			<div class="text-item">
+				<h2>Christian Church</h2>
+				<p>Photography</p>
+			</div>
+			<div class="text-item">
+				<h2>Red Darkness</h2>
+				<p>Photography</p>
+			</div>
+			<div class="text-item">
+				<h2>Beauty with Brain</h2>
+				<p>Photography</p>
+			</div>
+			<div class="text-item">
+				<h2>Remarkable</h2>
+				<p>Photography</p>
+			</div>
+		</div>
+	</section>
+',
+  'pagewidget_id' => '1592948717-0-10',
+) );
+
+							}
+							else
+							{
+								
+$_271c5a23bbf2f8374470231f97a4d31b = null;
+
+							}
+							
